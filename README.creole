@@ -1,9 +1,7 @@
-EggBeater
-=========
+== EggBeater ==
 
 USB attached encrypted storage and management software
 
 
-TODO
-====
+== TODO ==
 # Pick an FOSS license
