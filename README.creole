@@ -1,7 +1,14 @@
 == EggBeater ==
+<<<<<<< HEAD
 Purpose:
 -USB attached encrypted storage and management software
 -Create GUI to interact with software
 
+=======
+
+USB attached encrypted storage and management software
+
+test commit
+>>>>>>> origin/master
 == TODO ==
 # Pick an FOSS license
